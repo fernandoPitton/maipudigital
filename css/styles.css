@@ -18,22 +18,28 @@ nav{
     width: 100%;
     border: 3px solid rgb(210, 125, 7);
     position: fixed;
-    font-size: larger;    
-    
-
+    display: flex;
+    justify-content: end;
+    font-size: larger; 
+   
 }
 nav ul li a{
     color: white;
     text-decoration: none;
+    
 }
 nav ul li {
     list-style: none;
-    margin: 10px;
+    margin: 10px 10px 0px 0px;
+    
     display: inline-block;
+     display: inline-block;
+     
+    
    
 }
 header img{
-    margin-top: 50px;
+    margin-top: 70px;
 }
 body {
     color: white;
